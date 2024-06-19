@@ -1,0 +1,9 @@
+layout.js :: it is entry point of the next app every components of app render with this file
+page.js :: it is a home page of the next app
+
+there are two types of rendering takes place in next app
+1.server side
+2.client side 
+
+every component lies within app directory by default a server side component(never use dynamic components like useState hook on server side component)
+to make component clien side add 'use client' on the top of the code to make it client side
