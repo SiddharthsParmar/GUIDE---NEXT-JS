@@ -1,0 +1,4 @@
+react renders on the client side              next js render on server side and clent side both create static webpages
+
+when client requests webpages in react it renders html and js files on the browser which is got by server responce
+whereas server side rendering in next js renders pages on server and send whole page to the client
