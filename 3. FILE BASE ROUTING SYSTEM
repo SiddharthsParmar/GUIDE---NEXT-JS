@@ -1,0 +1,6 @@
+what ever files we make in the `app` directory it becomes routing path
+--`app`
+|-blog
+|-about
+|-profile
+we can access these route
